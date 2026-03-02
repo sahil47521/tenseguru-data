@@ -1,0 +1,64 @@
+{
+    "version": 1,
+    "learn": [
+        {
+            "id": "present-simple",
+            "title": "Present Simple Tense",
+            "subtitle": "Indefinite Tense",
+            "formula": "Subject + V1 (s/es) + Object",
+            "hindiDescription": "जब हम किसी वर्तमान काम के बारे में बात करते हैं जो नियमित रूप से होता है।",
+            "englishDescription": "Used for repeated or regular actions in the present time period.",
+            "examples": [
+                {
+                    "hindi": "मैं स्कूल जाता हूँ।",
+                    "english": "I go to school."
+                },
+                {
+                    "hindi": "वह खेलती है।",
+                    "english": "She plays."
+                }
+            ],
+            "practiceId": "p-present-simple"
+        },
+        {
+            "id": "present-continuous",
+            "title": "Present Continuous Tense",
+            "subtitle": "Progressive Tense",
+            "formula": "Subject + is/am/are + V1ing + Object",
+            "hindiDescription": "जब हम किसी ऐसे काम के बारे में बात करते हैं जो अभी हो रहा है।",
+            "englishDescription": "Used for actions happening exactly at the time of speaking.",
+            "examples": [
+                {
+                    "hindi": "मैं खाना खा रहा हूँ।",
+                    "english": "I am eating food."
+                },
+                {
+                    "hindi": "बारिश हो रही है।",
+                    "english": "It is raining."
+                }
+            ],
+            "practiceId": "p-present-cont"
+        }
+    ],
+    "practice": [
+        {
+            "id": "p-present-simple",
+            "title": "Present Simple Practice",
+            "questionCount": 2,
+            "questions": [
+                {
+                    "id": "q1",
+                    "question": "Choose the correct translation: 'वह पतंग उड़ाता है।'",
+                    "options": [
+                        "He fly a kite.",
+                        "He flying a kite.",
+                        "He flies a kite.",
+                        "He flys a kite."
+                    ],
+                    "correctAnswer": 2,
+                    "explanation": "With third person singular (He), we add 's/es' to the verb. Correct is 'flies'."
+                }
+            ]
+        }
+    ]
+}
